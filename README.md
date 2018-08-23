@@ -1,5 +1,5 @@
 open your command line
 
-ll_env\Scripts\activate
 
-python manage.py runserver
+  ll_env\Scripts\activate
+  python manage.py runserver
