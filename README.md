@@ -1,4 +1,4 @@
-open your command line
+open on your command line
 
 
   ll_env\Scripts\activate
